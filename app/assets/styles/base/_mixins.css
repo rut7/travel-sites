@@ -16,10 +16,11 @@
   }
 }
 
-@define-mixin clearfix {
+/* For floats */
+/*@define-mixin clearfix {
   &::after {
     content: "";
     clear: both;
     display: table;
   }
-}
+}*/
